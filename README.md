@@ -41,7 +41,7 @@ To get started with your own portfolio website:
 
    ```bash
    git clone https://github.com/ashishraj1408/ashish-next-portfolios.git my-portfolio
-   cd my-portfolio
+   cd ashish-next-portfolios
    ```
 
 2. Copy the contents of `.env.copy` to a new `.env` file and fill in the required information.
@@ -133,8 +133,8 @@ The easiest way to deploy your portfolio is using [Vercel](https://vercel.com/ne
 Check out the [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 ## 🌟 Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=namanbarkiya/minimal-next-portfolio&type=Date)](https://star-history.com/#namanbarkiya/minimal-next-portfolio&Date)
+<!-- 
+[![Star History Chart](https://api.star-history.com/svg?repos=namanbarkiya/minimal-next-portfolio&type=Date)](https://star-history.com/#namanbarkiya/minimal-next-portfolio&Date) -->
 
 ---
 
