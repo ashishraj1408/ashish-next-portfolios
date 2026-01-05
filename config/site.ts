@@ -1,14 +1,14 @@
 export const siteConfig = {
-  name: "Naman Barkiya - Applied AI Engineer",
-  authorName: "Naman Barkiya",
-  username: "namanbarkiya",
+  name: "Ashish Raj - Applied Software Engineer",
+  authorName: "Ashish Raj",
+  username: "ashishraj1408",
   description:
-    "Naman Barkiya - Applied AI Engineer working at the intersection of AI, data, and scalable software systems. Explore my projects, experience, and contributions in software development and AI.",
+    "Ashish Raj - Applied Software Engineer working at the intersection of AI, data, and scalable software systems. Explore my projects, experience, and contributions in software development and AI.",
   url: "https://nbarkiya.xyz",
   links: {
-    twitter: "https://x.com/namanbarkiya",
-    github: "https://github.com/namanbarkiya",
-    templateRepo: "https://github.com/namanbarkiya/minimal-next-portfolio",
+    twitter: "https://x.com/ashishraj1408",
+    github: "https://github.com/ashishraj1408",
+    templateRepo: "https://github.com/ashishraj1408/minimal-next-portfolio",
   },
   ogImage:
     "https://res.cloudinary.com/dvt5vkfwz/image/upload/v1767384721/naman_portfolio_og_image.png",
@@ -17,8 +17,8 @@ export const siteConfig = {
   logoIcon:
     "https://res.cloudinary.com/dbfvcn3f6/image/upload/v1692357294/assets/naman-logo.png",
   keywords: [
-    "Naman Barkiya",
-    "Applied AI Engineer",
+    "Ashish Raj",
+    "Applied Software Engineer",
     "AI Engineer",
     "Software Engineer",
     "Full Stack Developer",
