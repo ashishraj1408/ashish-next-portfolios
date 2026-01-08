@@ -23,14 +23,14 @@ export const skillsUnsorted: skillsInterface[] = [
     icon: Icons.react,
   },
   {
-    name: "GraphQL",
+    name: "RestAPI",
     description:
       "Fetch data precisely with a powerful query language for APIs and runtime execution.",
     rating: 4,
     icon: Icons.graphql,
   },
   {
-    name: "Nest.js",
+    name: "Java",
     description:
       "Create scalable and modular applications with a progressive Node.js framework.",
     rating: 4,
@@ -86,14 +86,14 @@ export const skillsUnsorted: skillsInterface[] = [
     icon: Icons.css3,
   },
   {
-    name: "React Native",
+    name: "PHP",
     description:
       "Develop cross-platform mobile apps using React for consistent and engaging experiences.",
     rating: 4,
     icon: Icons.react,
   },
   {
-    name: "Angular",
+    name: "DevOps",
     description:
       "Build dynamic web apps with a TypeScript-based open-source framework by Google.",
     rating: 3,
@@ -150,7 +150,7 @@ export const skillsUnsorted: skillsInterface[] = [
     icon: Icons.mysql,
   },
   {
-    name: "Netlify",
+    name: "ANTDesign",
     description:
       "Manage and organize relational databases efficiently for data-driven applications.",
     rating: 4,

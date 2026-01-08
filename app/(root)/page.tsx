@@ -101,36 +101,38 @@ export default function IndexPage() {
           </AnimatedText>
           <div className="mt-4 max-w-[42rem] text-center">
             <p className="leading-normal text-muted-foreground text-sm sm:text-base">
-              Software engineer working at the intersection of AI, data, and
-              scalable software systems.
+                Full Stack Developer with 2+ years of experience building
+                scalable web applications, CRM systems, and high-performance
+                user interfaces.
+              
             </p>
           </div>
 
           <div className="flex flex-col mt-10 items-center justify-center sm:flex-row sm:space-x-4 gap-3">
             <AnimatedText delay={0.6}>
-              <Link
-                href={"/resume"}
-                target="_blank"
+              <a
+                href="/resume/Ashish_Resume.pdf"
+                download="Ashish_Resume.pdf"
                 className={cn(buttonVariants({ size: "lg" }))}
-                aria-label="View resume"
+                aria-label="Download resume"
               >
                 <Icons.post className="w-4 h-4 mr-2" /> Resume
-              </Link>
+              </a>
             </AnimatedText>
+
             <AnimatedText delay={0.8}>
-              <Link
-                href={"/contact"}
-                rel="noreferrer"
+              <a
+                href="tel:+918210119604"
                 className={cn(
                   buttonVariants({
                     variant: "outline",
                     size: "lg",
                   })
                 )}
-                aria-label="Contact Ashish Raj"
+                aria-label="Call Ashish Raj"
               >
-                <Icons.contact className="w-4 h-4 mr-2" /> Contact
-              </Link>
+                Contact 
+              </a>
             </AnimatedText>
           </div>
           <AnimatedText delay={1.2}>
