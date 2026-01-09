@@ -154,7 +154,7 @@ export const skillsUnsorted: skillsInterface[] = [
     description:
       "Manage and organize relational databases efficiently for data-driven applications.",
     rating: 4,
-    icon: Icons.netlify,
+    icon: Icons.antdesign ,
   },
 ];
 

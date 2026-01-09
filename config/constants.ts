@@ -60,6 +60,8 @@ export type ValidSkills =
   | "FastAPI"
   | "SQL"
   | "NoSQL"
+  | "Tailwind CSS"
+  | "AntDesign"
   | "Framer Motion";
 
 export type ValidCategory =

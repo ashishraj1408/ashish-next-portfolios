@@ -30,30 +30,31 @@ export interface ProjectInterface {
 export const Projects: ProjectInterface[] = [
   {
     id: "portfolio-template",
-    companyName: "Portfolio Website (130+ GitHub stars)",
+    companyName: "Dashboard Application",
     type: "Personal",
     category: ["Web Dev", "Frontend", "UI/UX"],
     shortDescription:
       "Open-source Next.js portfolio template recognized and forked by developers worldwide, optimized for SEO/AEO and performance.",
-    websiteLink: "https://nbarkiya.xyz",
-    githubLink: "https://github.com/namanbarkiya/minimal-next-portfolio",
+    websiteLink: "https://demo.abc",
+    githubLink: "https://github.com/ashishraj1408/dashboard_application",
     techStack: [
       "Next.js",
       "React",
       "Typescript",
       "Tailwind CSS",
       "Framer Motion",
-      "Vercel",
+      "AntDesign",
+      "Netlify",
     ],
-    startDate: new Date("2024-01-01"),
-    endDate: new Date("2025-12-01"),
+    startDate: new Date("2024-10-01"),
+    endDate: new Date("2024-11-01"),
     companyLogoImg: "/logo.png",
     pagesInfoArr: [
       {
         title: "Landing & Sections",
         description:
           "A clean, minimal landing page with sections for skills, projects, contributions, and experience.",
-        imgArr: ["/profile-img.jpg"],
+        imgArr: ["/ashishh_progile.jpg"],
       },
     ],
     descriptionDetails: {

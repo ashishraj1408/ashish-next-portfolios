@@ -81,7 +81,7 @@ export default function IndexPage() {
             height={100}
             width={100}
             sizes="100vw"
-            className="bg-primary rounded-full mb-0 h-auto md:mb-2 w-[60%] max-w-[16rem] border-8 border-primary"
+            className="bg-primary rounded-full mb-0 h-auto md:mb-2 w-[60%] max-w-[16rem] border-4 border-primary"
             alt="Ashish Raj - Applied Software Engineer Portfolio"
             priority
           />
