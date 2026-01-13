@@ -48,13 +48,13 @@ export const Projects: ProjectInterface[] = [
     ],
     startDate: new Date("2024-10-01"),
     endDate: new Date("2024-11-01"),
-    companyLogoImg: "/logo.png",
+    companyLogoImg: "/projects/dashboard-application/dashboard.webp",
     pagesInfoArr: [
       {
         title: "Landing & Sections",
         description:
           "A clean, minimal landing page with sections for skills, projects, contributions, and experience.",
-        imgArr: ["/ashishh_progile.jpg"],
+        imgArr: ["/ashishh_progile.jpg", "/ashishh_progile.jpg"],
       },
     ],
     descriptionDetails: {
@@ -70,16 +70,16 @@ export const Projects: ProjectInterface[] = [
     },
   },
   {
-    id: "convot",
-    companyName: "Convot",
+    id: "Ecommerce-application",
+    companyName: "Ecommerce Shop",
     type: "Personal",
     category: ["Full Stack", "Backend", "Web Dev"],
     shortDescription:
       "Production-ready AI chatbot platform that crawls, indexes, and embeds knowledge from PDFs/URLs/text to deliver source-grounded answers via a one-line widget.",
-    techStack: ["Next.js", "React", "Node.js", "Typescript", "Python"],
+    techStack: ["Next.js", "React", "Node.js", "Typescript", "Typescript"],
     startDate: new Date("2024-04-01"),
     endDate: new Date("2024-10-01"),
-    companyLogoImg: "/logo.png",
+    companyLogoImg: "/projects/dashboard-application/ecommerce.webp",
     pagesInfoArr: [
       {
         title: "Ingestion & Retrieval",
@@ -101,8 +101,8 @@ export const Projects: ProjectInterface[] = [
     },
   },
   {
-    id: "the-super-focus",
-    companyName: "TheSuperFocus",
+    id: "hotel-management-system",
+    companyName: "Hotel Management System",
     type: "Personal",
     category: ["Full Stack", "Web Dev", "UI/UX"],
     shortDescription:
@@ -117,7 +117,7 @@ export const Projects: ProjectInterface[] = [
     ],
     startDate: new Date("2023-06-01"),
     endDate: new Date("2023-12-01"),
-    companyLogoImg: "/logo.png",
+    companyLogoImg: "/projects/dashboard-application/hotel-management-system.webp",
     pagesInfoArr: [
       {
         title: "Realtime Focus Sessions",
@@ -138,8 +138,8 @@ export const Projects: ProjectInterface[] = [
     },
   },
   {
-    id: "built-design",
-    companyName: "Builtdesign",
+    id: "drag-drop-builder",
+    companyName: "Drag & Drop Builder",
     type: "Professional",
     category: ["Web Dev", "Full Stack", "UI/UX"],
     shortDescription:
@@ -210,8 +210,8 @@ export const Projects: ProjectInterface[] = [
     },
   },
   {
-    id: "the-super-quotes",
-    companyName: "The Super Quotes",
+    id: "crm-real-estate",
+    companyName: "CRM - Real Estate",
     type: "Professional",
     category: ["Mobile Dev", "Full Stack", "UI/UX"],
     shortDescription:
@@ -340,8 +340,8 @@ export const Projects: ProjectInterface[] = [
     },
   },
   {
-    id: "builtdesign-blogs",
-    companyName: "Builtdesign Blogs",
+    id: "rental-application",
+    companyName: "Rental Application ",
     type: "Professional",
     category: ["Web Dev", "Full Stack", "UI/UX"],
     shortDescription:
