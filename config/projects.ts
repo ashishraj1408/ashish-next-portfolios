@@ -35,7 +35,7 @@ export const Projects: ProjectInterface[] = [
     category: ["Web Dev", "Frontend", "UI/UX"],
     shortDescription:
       "Open-source Next.js portfolio template recognized and forked by developers worldwide, optimized for SEO/AEO and performance.",
-    websiteLink: "https://demo.abc",
+    websiteLink: "https://github.com/ashishraj1408",
     githubLink: "https://github.com/ashishraj1408/dashboard_application",
     techStack: [
       "Next.js",
@@ -115,9 +115,10 @@ export const Projects: ProjectInterface[] = [
       "Typescript",
       "MongoDB",
     ],
-    startDate: new Date("2023-06-01"),
-    endDate: new Date("2023-12-01"),
-    companyLogoImg: "/projects/dashboard-application/hotel-management-system.webp",
+    startDate: new Date("2024-09-01"),
+    endDate: new Date("2024-11-30"),
+    companyLogoImg:
+      "/projects/dashboard-application/hotel-management-system.webp",
     pagesInfoArr: [
       {
         title: "Realtime Focus Sessions",
@@ -139,206 +140,129 @@ export const Projects: ProjectInterface[] = [
   },
   {
     id: "drag-drop-builder",
-    companyName: "Drag & Drop Builder",
+    companyName: "Drag & Drop Form Builder",
     type: "Professional",
     category: ["Web Dev", "Full Stack", "UI/UX"],
     shortDescription:
-      "Developed and optimized a high-performing website catering to over 4000 users, emphasizing efficiency and maintainability.",
-    websiteLink: "https://builtdesign.in",
+      "Designed and built a scalable drag-and-drop form builder used by 4000+ users to create dynamic, customizable forms with ease.",
+    websiteLink: "https://github.com/ashishraj1408",
     techStack: [
-      "Next.js",
+      "react-beautiful-dnd",
       "React",
-      "Node.js",
-      "MongoDB",
-      "GraphQL",
-      "Nest.js",
+      "Tailwind CSS",
+      "Redux",
+      "formik",
+      "SCSS",
+      "Sass",
+      "AntDesign",
+      "Zustand",
       "Typescript",
     ],
-    startDate: new Date("2021-07-01"),
-    endDate: new Date("2022-07-01"),
-    companyLogoImg: "/projects/builtdesign/logo.png",
+    startDate: new Date("2025-04-05"),
+    endDate: new Date("2025-05-30"),
+    companyLogoImg: "/projects/builtdesign/drag-drop-1.webp",
     pagesInfoArr: [
       {
-        title: "Landing Page",
+        title: "Form Builder Interface",
         description:
-          "Modern and responsive landing page showcasing company services and portfolio",
+          "Interactive drag-and-drop interface enabling users to design forms with custom fields, layouts, and validations",
         imgArr: [
-          "/projects/builtdesign/landing_1.webp",
-          "/projects/builtdesign/landing_3.webp",
-          "/projects/builtdesign/landing_5.webp",
-          "/projects/builtdesign/landing_6.webp",
-          "/projects/builtdesign/landing_2.webp",
-          "/projects/builtdesign/landing_4.webp",
-        ],
-      },
-      {
-        title: "Custom PDF Reader and optimizer",
-        description:
-          "Specialized PDF viewer with optimization features for improved performance and user experience",
-        imgArr: ["/projects/builtdesign/pdf_opt.webp"],
-      },
-      {
-        title: "Clients Dashboard",
-        description:
-          "Comprehensive client portal with project tracking, document management, and communication tools",
-        imgArr: [
-          "/projects/builtdesign/cli_dashboard_1.webp",
-          "/projects/builtdesign/cli_dashboard_2.webp",
-          "/projects/builtdesign/cli_dashboard_3.webp",
+          "/projects/builtdesign/drag-drop-2.webp",
+          "/projects/builtdesign/drag-drop-3.webp",
+          "/projects/builtdesign/drag-drop-4.webp",
+          "/projects/builtdesign/drag-drop-5.webp",
+          "/projects/builtdesign/drag-drop-6.webp",
         ],
       },
       {
         title: "Admin Dashboard",
         description:
-          "Powerful administrative interface for managing users, projects, and system settings",
-        imgArr: ["/projects/builtdesign/logo.png"],
+          "Administrative dashboard for managing users, forms, submissions, and system configurations",
+        imgArr: ["/projects/builtdesign/drag-drop-1.webp"],
       },
     ],
     descriptionDetails: {
       paragraphs: [
-        "During my time at Builtdesign, I had the opportunity to work on a dynamic and user-focused project that involved designing and optimizing a website catering to a user base of over 4000 individuals. My role as a full-stack web developer was to ensure a seamless experience for users by creating an efficient and maintainable platform.",
-        "I collaborated closely with the product team to integrate cutting-edge features, employing technologies like Next.js and React with TypeScript for captivating front-end experiences. Additionally, I contributed significantly to the backend by utilizing Node.js, MongoDB, and GraphQL to design robust APIs and ensure smooth system functionality.",
-        "This experience allowed me to enhance my skills in various areas of web development and deliver a high-quality product. I gained proficiency in front-end technologies such as Material UI and Tailwind CSS, as well as backend technologies including Nest.js and MySQL. The project's success in catering to a large user base and providing an intuitive user interface has further motivated me to pursue excellence in web development.",
+        "At Builtdesign, I worked as a full-stack developer on a drag-and-drop form builder platform designed to help users create and manage dynamic forms without writing code. The product served over 4000 users and focused heavily on performance, usability, and scalability.",
+        "I collaborated with designers and product managers to build an intuitive UI using Next.js, React, and TypeScript, enabling real-time form previews, drag-and-drop field placement, and configurable validations. The frontend was optimized for responsiveness and ease of use.",
+        "On the backend, I developed robust APIs using Node.js, Nest.js, MongoDB, and GraphQL to handle form schemas, user submissions, authentication, and analytics. This project strengthened my expertise in building complex UI interactions and scalable full-stack applications.",
       ],
       bullets: [
-        "Developed and optimized a high-performing website catering to over 4000 users.",
-        "Collaborated closely with the product team to implement cutting-edge features.",
-        "Created an intuitive admin dashboard to efficiently manage and announce contest winners.",
-        "Leveraged Next.js, React with TypeScript for captivating front-end experiences.",
-        "Utilized Node.js, MongoDB, and GraphQL to design and manage databases.",
+        "Built a drag-and-drop form builder allowing users to create dynamic, customizable forms.",
+        "Implemented real-time form preview, validation, and field configuration.",
+        "Designed an admin dashboard to manage users, forms, and submissions.",
+        "Optimized performance to support 4000+ active users.",
+        "Developed scalable APIs using Node.js, Nest.js, MongoDB, and GraphQL.",
       ],
     },
   },
   {
     id: "crm-real-estate",
-    companyName: "CRM - Real Estate",
+    companyName: "CRM – Real Estate",
     type: "Professional",
     category: ["Mobile Dev", "Full Stack", "UI/UX"],
     shortDescription:
-      "Elevated The Super Quotes app with JavaScript, React Native, APIs, Redux magic, and Google Play Store debut.",
-    websiteLink:
-      "https://play.google.com/store/apps/details?id=com.thesuperlife",
-    techStack: ["React Native", "Node.js", "MongoDB", "Javascript"],
-    startDate: new Date("2021-07-01"),
-    endDate: new Date("2022-07-01"),
-    companyLogoImg: "/projects/superquotes/logo.png",
+      "Developed a full-featured real estate CRM to manage leads, projects, inventory, tasks, invoices, and analytics with real-time notifications.",
+    websiteLink: "https://github.com/ashishraj1408",
+    techStack: ["React", "Node.js", "MongoDB", "express.js", "Material UI", "Tailwind CSS"],
+    startDate: new Date("2025-08-01"),
+    endDate: new Date("2026-01-01"),
+    companyLogoImg: "/projects/crm-real-estate/crm-real-estate-logo.png",
     pagesInfoArr: [
       {
-        title: "Quotes View Page",
+        title: "Login & Authentication",
         description:
-          "Elegantly designed quotes display with customizable themes and sharing options",
-        imgArr: ["/projects/superquotes/app_2.webp"],
+          "Secure login and role-based authentication system for agents, managers, and administrators",
+        imgArr: ["/projects/crm-real-estate/crm-real-estate-login.png"],
       },
       {
-        title: "Quotes Download Component",
+        title: "Lead Management",
         description:
-          "Feature allowing users to download quotes as beautiful images for social media sharing",
+          "Lead capture and tracking system with status updates, interactions, and conversion monitoring",
         imgArr: [
-          "/projects/superquotes/app_4.webp",
-          "/projects/superquotes/app_7.webp",
+          "/projects/crm-real-estate/crm-real-estate-1.webp",
+          "/projects/crm-real-estate/crm-real-estate-2.webp",
         ],
       },
       {
-        title: "Account Management",
+        title: "Project & Inventory Management",
         description:
-          "User profile management with favorites, history, and personalization settings",
-        imgArr: ["/projects/superquotes/app_6.webp"],
+          "Management of real estate projects, societies, properties, units, and amenities",
+        imgArr: ["/projects/crm-real-estate/crm-real-estate-3.webp"],
       },
       {
-        title: "Interest Selection and Update Page",
+        title: "Task Management",
         description:
-          "Interactive interface for users to select and update their quote preferences and interests",
+          "Task assignment, deadline tracking, and team collaboration for efficient operations",
         imgArr: [
-          "/projects/superquotes/app_1.webp",
-          "/projects/superquotes/app_3.webp",
+          "/projects/crm-real-estate/crm-real-estate-4.webp",
+          "/projects/crm-real-estate/crm-real-estate-5.webp",
         ],
       },
       {
-        title: "Responsiveness",
+        title: "Reports & Responsiveness",
         description:
-          "Adaptive design ensuring optimal user experience across various device sizes and orientations",
-        imgArr: ["/projects/superquotes/app_5.webp"],
+          "Analytics dashboards with reports on sales, revenue, and performance, optimized for all devices",
+        imgArr: ["/projects/crm-real-estate/crm-real-estate-6.webp"],
       },
     ],
     descriptionDetails: {
       paragraphs: [
-        `Venturing into the world of creativity at The Super Quotes was an exhilarating journey. As a passionate developer, I led the charge in crafting a compelling application from inception to completion, using the dynamic duo of JavaScript and React Native.`,
-        `The heart of my achievement lay in the seamless integration of APIs, threading a tapestry of data flow that propelled the application's functionality to new heights.`,
-        `With the wizardry of Redux, I choreographed a symphony of state management and performance optimization, orchestrating a ballet of responsiveness that wowed users with every interaction.`,
-        `A crescendo awaited as I unveiled the culmination of my work on the grand stage of the Google Play Store. The app's debut marked an epoch, opening doors to an expansive audience eager to embrace the charm of The Super Quotes.`,
+        "I worked as a full-stack mobile developer on a Real Estate CRM application designed to streamline sales operations, customer management, and project tracking for real estate businesses.",
+        "The system enabled secure authentication with role-based access, allowing teams to manage leads, track customer interactions, and monitor conversion metrics throughout the sales lifecycle.",
+        "I implemented modules for project and inventory management, task allocation, invoicing, and cashflow tracking, providing real-time visibility into business operations.",
+        "Using React Native, Node.js, and MongoDB, I delivered a scalable and responsive application with real-time notifications, detailed reports, and analytics to support data-driven decision-making.",
       ],
       bullets: [
-        "Led the end-to-end development of a captivating application using JavaScript and React Native.",
-        "Championed the integration of APIs, harmonizing data flow and enhancing application functionality.",
-        "Conducted Redux magic to ensure state management and optimize performance, delivering a mesmerizing user experience.",
-        "Premiered the application on the Google Play Store, capturing hearts and expanding its user base.",
+        "Built a real estate CRM with lead, project, inventory, and task management modules.",
+        "Implemented secure login and role-based authentication.",
+        "Developed invoicing and cashflow management features with payment tracking.",
+        "Integrated real-time notifications and alerts for tasks and updates.",
+        "Created reports and analytics dashboards for sales and performance insights.",
       ],
     },
   },
-  {
-    id: "apex-shopping",
-    companyName: "Apex Shopping App",
-    type: "Personal",
-    category: ["Mobile Dev", "Full Stack", "UI/UX"],
-    shortDescription:
-      "Developed a feature-rich mobile shopping application with admin panel, user authentication, and seamless product management using React Native and Firebase.",
-    githubLink: "https://github.com/namanbarkiya/apex-shopping-app",
-    techStack: ["React Native", "Javascript", "Redux", "Node.js", "express.js"],
-    startDate: new Date("2021-07-14"),
-    endDate: new Date("2022-07-01"),
-    companyLogoImg: "/projects/apex/logo.png",
-    pagesInfoArr: [
-      {
-        title: "Splash Screen",
-        description: "Custom animated splash screen with app branding",
-        imgArr: ["/projects/apex/app_7.webp"],
-      },
-      {
-        title: "Login/Signup Authentication",
-        description: "Secure user authentication system with Firebase",
-        imgArr: ["/projects/apex/app_1.webp"],
-      },
-      {
-        title: "All Products Explore Screen",
-        description: "Interactive product browsing with categories and filters",
-        imgArr: ["/projects/apex/app_3.webp"],
-      },
-      {
-        title: "Admin Panel",
-        description:
-          "Comprehensive admin dashboard for product and order management",
-        imgArr: ["/projects/apex/app_4.webp", "/projects/apex/app_6.webp"],
-      },
-      {
-        title: "Sidenav Navigation",
-        description: "Intuitive side navigation for easy app navigation",
-        imgArr: ["/projects/apex/app_5.webp"],
-      },
-      {
-        title: "Firebase Database",
-        description:
-          "Real-time database structure for efficient data management",
-        imgArr: ["/projects/apex/db.webp"],
-      },
-    ],
-    descriptionDetails: {
-      paragraphs: [
-        "The Apex Shopping App represents a comprehensive mobile e-commerce solution that I developed from the ground up using React Native and Firebase. This project showcases my ability to create a full-featured shopping application with both user and admin functionalities.",
-        "The application features a robust authentication system, allowing users to securely sign up and log in. The product exploration interface is designed with user experience in mind, incorporating smooth navigation and intuitive filtering options.",
-        "One of the key highlights is the admin panel, which provides complete control over product management, order processing, and inventory tracking. The integration with Firebase ensures real-time data synchronization and reliable data persistence.",
-        "The app's architecture emphasizes scalability and performance, utilizing Redux for state management and following best practices for mobile app development. The UI/UX design focuses on providing a seamless shopping experience across different device sizes.",
-      ],
-      bullets: [
-        "Implemented secure user authentication and authorization using Firebase",
-        "Designed and developed an intuitive product browsing and shopping cart system",
-        "Created a comprehensive admin panel for product and order management",
-        "Integrated real-time data synchronization using Firebase Database",
-        "Implemented state management using Redux for optimal performance",
-        "Designed responsive UI components following mobile-first principles",
-        "Incorporated smooth animations and transitions for enhanced user experience",
-      ],
-    },
-  },
+
   {
     id: "rental-application",
     companyName: "Rental Application ",
@@ -346,7 +270,7 @@ export const Projects: ProjectInterface[] = [
     category: ["Web Dev", "Full Stack", "UI/UX"],
     shortDescription:
       "Crafted Builtdesign's vibrant Blogs Website using Netlify CMS and React for engaging content experiences.",
-    websiteLink: "https://blog.builtdesign.in",
+    websiteLink: "https://github.com/ashishraj1408",
     techStack: ["Next.js", "React", "Node.js", "MongoDB", "Typescript"],
     startDate: new Date("2022-03-01"),
     endDate: new Date("2022-07-01"),
@@ -404,8 +328,8 @@ export const Projects: ProjectInterface[] = [
     category: ["Web Dev", "Frontend", "3D Modeling"],
     shortDescription:
       "Forged an immersive 3D Portfolio Card utilizing the prowess of Three.js and Blender, where art and technology converge in an interactive masterpiece.",
-    websiteLink: "https://card.namanbarkiya.xyz/",
-    githubLink: "https://github.com/namanbarkiya/3d-portfolio-card",
+    websiteLink: "https://github.com/ashishraj1408",
+    githubLink: "https://github.com/ashishraj1408",
     techStack: ["React", "Javascript", "HTML 5", "CSS 3"],
     startDate: new Date("2022-03-01"),
     endDate: new Date("2022-07-01"),
@@ -455,7 +379,7 @@ export const Projects: ProjectInterface[] = [
     category: ["Web Dev", "Frontend", "UI/UX"],
     shortDescription:
       "Created a dashboard project using React and Tailwind CSS, focusing on UI design and routing implementation.",
-    websiteLink: "https://cirql-ui.namanbarkiya.xyz/",
+    websiteLink: "https://github.com/ashishraj1408",
     techStack: ["React", "Tailwind CSS", "Google Auth"],
     startDate: new Date("2023-01-01"),
     endDate: new Date("2023-02-15"),
@@ -498,8 +422,8 @@ export const Projects: ProjectInterface[] = [
     category: ["Web Dev", "UI/UX"],
     shortDescription:
       "Developed a user-friendly website for Inscript Hindi typing, addressing the need for a simple tool for Hindi writers to convey data digitally.",
-    websiteLink: "https://hindityping.namanbarkiya.xyz",
-    githubLink: "https://github.com/namanbarkiya/inscript-hindi-keyboard",
+    websiteLink: "https://github.com/ashishraj1408",
+    githubLink: "https://github.com/ashishraj1408",
     techStack: ["HTML 5", "CSS 3", "Javascript"],
     startDate: new Date("2022-05-01"),
     endDate: new Date("2022-06-15"),

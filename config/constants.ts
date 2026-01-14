@@ -13,13 +13,16 @@ export type ValidSkills =
   | "React Native"
   | "Angular"
   | "Redux"
+  | "MERN"
   | "Socket.io"
   | "Material UI"
   | "Tailwind CSS"
   | "AWS"
+  | "Zustand"
   | "Bootstrap"
   | "Google Auth"
   | "MySQL"
+  | "SCSS"
   | "Java"
   | "Databricks"
   | "Python"
@@ -62,6 +65,8 @@ export type ValidSkills =
   | "NoSQL"
   | "Tailwind CSS"
   | "AntDesign"
+  | "formik"
+  | "react-beautiful-dnd"
   | "Framer Motion";
 
 export type ValidCategory =
