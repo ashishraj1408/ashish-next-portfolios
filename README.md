@@ -134,7 +134,7 @@ Check out the [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## 🌟 Star History
 <!-- 
-[![Star History Chart](https://api.star-history.com/svg?repos=namanbarkiya/minimal-next-portfolio&type=Date)](https://star-history.com/#namanbarkiya/minimal-next-portfolio&Date) -->
+[![Star History Chart](https://api.star-history.com/svg?repos=ashishraj1408/ashish-next-portfolios&type=Date)](https://star-history.com/#ashishraj1408/ashish-next-portfolios&Date) -->
 
 ---
 

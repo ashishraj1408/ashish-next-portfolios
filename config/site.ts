@@ -8,7 +8,7 @@ export const siteConfig = {
   links: {
     twitter: "https://x.com/ashishraj1408",
     github: "https://github.com/ashishraj1408",
-    templateRepo: "https://github.com/ashishraj1408/minimal-next-portfolio",
+    templateRepo: "https://github.com/ashishraj1408/ashish-next-portfolios",
   },
   ogImage:
     "https://res.cloudinary.com/dvt5vkfwz/image/upload/v1767384721/naman_portfolio_og_image.png",

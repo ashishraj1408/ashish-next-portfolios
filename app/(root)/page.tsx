@@ -7,7 +7,7 @@ import { AnimatedSection } from "@/components/common/animated-section";
 import { AnimatedText } from "@/components/common/animated-text";
 import { ClientPageWrapper } from "@/components/common/client-page-wrapper";
 import { Icons } from "@/components/common/icons";
-import ContributionCard from "@/components/contributions/contribution-card";
+// import ContributionCard from "@/components/contributions/contribution-card";
 import ExperienceCard from "@/components/experience/experience-card";
 import ProjectCard from "@/components/projects/project-card";
 import SkillsCard from "@/components/skills/skills-card";
@@ -101,7 +101,7 @@ export default function IndexPage() {
           </AnimatedText>
           <div className="mt-4 max-w-[42rem] text-center">
             <p className="leading-normal text-muted-foreground text-sm sm:text-base">
-                Full Stack Developer with 2+ years of experience building
+                Full Stack Developer with 3 years of experience building
                 scalable web applications, CRM systems, and high-performance
                 user interfaces.
               
@@ -212,7 +212,7 @@ export default function IndexPage() {
                     </p>
                 </div> */}
       </AnimatedSection>
-      <AnimatedSection
+      {/* <AnimatedSection
         direction="down"
         className="container space-y-6 bg-muted py-10 my-14"
         id="contributions"
@@ -242,7 +242,7 @@ export default function IndexPage() {
             </Button>
           </Link>
         </AnimatedText>
-      </AnimatedSection>
+      </AnimatedSection> */}
       <AnimatedSection
         direction="left"
         className="container space-y-6 py-10 my-14"
