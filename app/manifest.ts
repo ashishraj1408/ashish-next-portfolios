@@ -2,7 +2,7 @@ import type { MetadataRoute } from "next";
 
 export default function manifest(): MetadataRoute.Manifest {
   return {
-    name: "Ashish Raj | Applied Software Engineer",
+    name: "Ashish Raj | Applied Software Engineer deploy",
     short_name: "Ashish Raj",
     description:
       "Ashish Raj - Applied Software Engineer working at the intersection of AI, data, and scalable software systems.",

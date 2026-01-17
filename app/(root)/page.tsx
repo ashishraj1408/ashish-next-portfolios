@@ -131,7 +131,7 @@ export default function IndexPage() {
                 )}
                 aria-label="Call Ashish Raj"
               >
-                Contacts 
+                Contacts Check
               </a>
             </AnimatedText>
           </div>
