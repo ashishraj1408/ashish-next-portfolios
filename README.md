@@ -19,7 +19,7 @@ A modern, responsive, and SEO-optimized **Next.js 16 portfolio template** design
 
 ## 🚀 Demo
 
-View the live demo at [https://demo-as.com/](https://demo-as.com)
+View the live demo at [https://ashishraj-portfolio.vercel.app/](https://ashishraj-portfolio.vercel.app/)
 
 
 ## 🛠️ Tech Stack
